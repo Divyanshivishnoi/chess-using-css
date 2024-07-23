@@ -1,0 +1,22 @@
+.container{
+   border-spacing:0;
+   border-collapse: collapse;
+
+
+}
+.container td{
+    border:2px solid black;
+    height:80px;
+    width:95px;
+}
+.container .d{
+    background-color: rgb(73, 71, 71);
+   
+
+}
+.container .v{
+    background-color: aliceblue;
+}
+img{
+    width:20px;
+}
